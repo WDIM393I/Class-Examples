@@ -42,6 +42,8 @@ define(['backbone', 'underscore', '$', 'text!templates/home.html', 'model/AppSta
 			var form = e.target;
 
 			this.validate(form);
+
+			
 			return false;
 		},
 

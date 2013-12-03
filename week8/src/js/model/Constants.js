@@ -7,7 +7,7 @@ function() {
     
     var Constants = {
         // dimensions
-
+        MAX_SCREEN_WIDTH: 1024,
 
         // fonts
         
