@@ -1,0 +1,22 @@
+.intro {
+	width: 100%;
+
+	h1 {
+		font-size: 20px;
+	}
+
+	.menu {
+		width: 400px;
+		margin: auto;
+		display: block;
+	}
+
+	.introLink {
+		color: $menuLinkColor;
+
+		&:hover {
+			color: $hoverColor;
+		}
+	}
+	
+}
